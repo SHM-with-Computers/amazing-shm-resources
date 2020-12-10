@@ -18,7 +18,7 @@
 
 [StefanBloemheuvel/GSP_Bridge](https://github.com/StefanBloemheuvel/GSP_Bridge): Additional material for "Graph Signal Processing on Complex Networks for Structural Health Monitoring"
 
-[aaustructural/MATLAB-SHM-toolbox] https://github.com/aaustructural/MATLAB-SHM-toolbox): Object-oriented MATLAB toolbox for structural health monitoring
+[aaustructural/MATLAB-SHM-toolbox]https://github.com/aaustructural/MATLAB-SHM-toolbox): Object-oriented MATLAB toolbox for structural health monitoring
 
 [HossanNazmul/Java-GIS-SHM](https://github.com/HossanNazmul/Java-GIS-SHM): GIS based Structural Health Monitoring for Bridges
 
