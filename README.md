@@ -32,3 +32,29 @@
 ## Researchers
 
 [Hua-Peng Chen](https://scholar.google.com/citations?user=pNu1t0oAAAAJ)
+
+[Alfredo Guemes](https://scholar.google.com/citations?user=CeO_jmsAAAAJ)
+
+[Wiesław Ostachowicz](https://www.imp.gda.pl/en/wieslaw-ostachowicz)
+
+[Fu-Kuo Chang](https://profiles.stanford.edu/fu-kuo-chang)
+
+[Fotis Kopsaftopoulos](https://scholar.google.co.in/citations?user=5Jaec-kAAAAJ)
+
+[Victor Giurgiutiu](https://scholar.google.co.in/citations?user=N_jW68UAAAAJ)
+
+[Charles R. Farrar](https://scholar.google.co.in/citations?user=Iz4v9FwAAAAJ)
+
+[Keith Worden](https://scholar.google.co.uk/citations?user=Epgfi_UAAAAJ)
+
+[Mohammad Ali Faghih Aliabadi](https://scholar.google.com/citations?user=F2SvQ4cAAAAJ)
+
+[Zahra Sharif-Khodaei](https://scholar.google.co.in/citations?user=iy8X1bUAAAAJ)
+
+[Christian Boller](https://www.researchgate.net/profile/Christian_Boller)
+
+[G.R Tomlinson](https://www.researchgate.net/scientific-contributions/GR-Tomlinson-72978109)
+
+[Wieslaw Staszewski](https://www.researchgate.net/profile/Wieslaw_Staszewski)
+
+
