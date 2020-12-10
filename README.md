@@ -31,21 +31,21 @@
 
 ## Books and Authors(Researchers)
 
-**[New Trends in Structural Health Monitoring](https://books.google.com/books/about/New_Trends_in_Structural_Health_Monitori.html):** [Alfredo Guemes](https://scholar.google.com/citations?user=CeO_jmsAAAAJ) [Wiesław Ostachowicz](https://www.imp.gda.pl/en/wieslaw-ostachowicz)
+**[New Trends in Structural Health Monitoring](https://books.google.com/books/about/New_Trends_in_Structural_Health_Monitori.html):** *[Alfredo Guemes](https://scholar.google.com/citations?user=CeO_jmsAAAAJ)* *[Wiesław Ostachowicz](https://www.imp.gda.pl/en/wieslaw-ostachowicz)*
 
-**[Structural Health Monitoring 2019](https://books.google.com/books/about/Structural_Health_Monitoring_2019.html):** [Fu-Kuo Chang](https://profiles.stanford.edu/fu-kuo-chang) [Alfredo Guemes](https://scholar.google.com/citations?user=CeO_jmsAAAAJ) [Fotis Kopsaftopoulos](https://scholar.google.co.in/citations?user=5Jaec-kAAAAJ)
+**[Structural Health Monitoring 2019](https://books.google.com/books/about/Structural_Health_Monitoring_2019.html):** *[Fu-Kuo Chang](https://profiles.stanford.edu/fu-kuo-chang)* *[Alfredo Guemes](https://scholar.google.com/citations?user=CeO_jmsAAAAJ)* *[Fotis Kopsaftopoulos](https://scholar.google.co.in/citations?user=5Jaec-kAAAAJ)*
 
-**[Structural Health Monitoring with Piezoelectric Wafer Active Sensors](https://books.google.com/books/about/Structural_Health_Monitoring_with_Piezoe.html):** [Victor Giurgiutiu](https://scholar.google.co.in/citations?user=N_jW68UAAAAJ)
+**[Structural Health Monitoring with Piezoelectric Wafer Active Sensors](https://books.google.com/books/about/Structural_Health_Monitoring_with_Piezoe.html):** *[Victor Giurgiutiu](https://scholar.google.co.in/citations?user=N_jW68UAAAAJ)*
 
-**[Structural Health Monitoring: A Machine Learning Perspective](https://books.google.com/books/about/Structural_Health_Monitoring.html):** [Charles R. Farrar](https://scholar.google.co.in/citations?user=Iz4v9FwAAAAJ) [Keith Worden](https://scholar.google.co.uk/citations?user=Epgfi_UAAAAJ)
+**[Structural Health Monitoring: A Machine Learning Perspective](https://books.google.com/books/about/Structural_Health_Monitoring.html):** *[Charles R. Farrar](https://scholar.google.co.in/citations?user=Iz4v9FwAAAAJ)* *[Keith Worden](https://scholar.google.co.uk/citations?user=Epgfi_UAAAAJ)*
 
-**[Structural Health Monitoring For Advanced Composite Structures](https://books.google.com/books/about/Structural_Health_Monitoring_For_Advance.html):** [Mohammad Ali Faghih Aliabadi](https://scholar.google.com/citations?user=F2SvQ4cAAAAJ) [Zahra Sharif-Khodaei](https://scholar.google.co.in/citations?user=iy8X1bUAAAAJ)
+**[Structural Health Monitoring For Advanced Composite Structures](https://books.google.com/books/about/Structural_Health_Monitoring_For_Advance.html):** *[Mohammad Ali Faghih Aliabadi](https://scholar.google.com/citations?user=F2SvQ4cAAAAJ)* *[Zahra Sharif-Khodaei](https://scholar.google.co.in/citations?user=iy8X1bUAAAAJ)*
 
-**[Health Monitoring of Aerospace Structures: Smart Sensor Technologies and Signal Processing](https://books.google.com/books/about/Health_Monitoring_of_Aerospace_Structure.html):** [Christian Boller](https://www.researchgate.net/profile/Christian_Boller) [G.R Tomlinson](https://www.researchgate.net/scientific-contributions/GR-Tomlinson-72978109) [Wieslaw Staszewski](https://www.researchgate.net/profile/Wieslaw_Staszewski)
+**[Health Monitoring of Aerospace Structures: Smart Sensor Technologies and Signal Processing](https://books.google.com/books/about/Health_Monitoring_of_Aerospace_Structure.html):** *[Christian Boller](https://www.researchgate.net/profile/Christian_Boller)* *[G.R Tomlinson](https://www.researchgate.net/scientific-contributions/GR-Tomlinson-72978109)* *[Wieslaw Staszewski](https://www.researchgate.net/profile/Wieslaw_Staszewski)*
 
-**[Fibre Optic Methods for Structural Health Monitoring](https://books.google.com/books/about/Fibre_Optic_Methods_for_Structural_Healt.html):** [Daniele Inaudi](https://www.researchgate.net/scientific-contributions/Daniele-Inaudi-70429502) [Branko Glisic](https://cee.princeton.edu/people/branko-glisic)
+**[Fibre Optic Methods for Structural Health Monitoring](https://books.google.com/books/about/Fibre_Optic_Methods_for_Structural_Healt.html):** *[Daniele Inaudi](https://www.researchgate.net/scientific-contributions/Daniele-Inaudi-70429502)* *[Branko Glisic](https://cee.princeton.edu/people/branko-glisic)*
 
-**[Damage Detection in Composite Materials](https://books.google.com/books/about/Damage_Detection_in_Composite_Materials.html):** John E. Masters
+**[Damage Detection in Composite Materials](https://books.google.com/books/about/Damage_Detection_in_Composite_Materials.html):** *John E. Masters*
 
 ## Other Researchers
 
