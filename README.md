@@ -43,6 +43,9 @@
 
 [Health Monitoring of Aerospace Structures: Smart Sensor Technologies and Signal Processing](https://books.google.com/books/about/Health_Monitoring_of_Aerospace_Structure.html): [Christian Boller](https://www.researchgate.net/profile/Christian_Boller) [G.R Tomlinson](https://www.researchgate.net/scientific-contributions/GR-Tomlinson-72978109) [Wieslaw Staszewski](https://www.researchgate.net/profile/Wieslaw_Staszewski)
 
+[Fibre Optic Methods for Structural Health Monitoring](https://books.google.com/books/about/Fibre_Optic_Methods_for_Structural_Healt.html): [Daniele Inaudi](https://www.researchgate.net/scientific-contributions/Daniele-Inaudi-70429502) [Branko Glisic](https://cee.princeton.edu/people/branko-glisic)
+
+[Damage Detection in Composite Materials](https://books.google.com/books/about/Damage_Detection_in_Composite_Materials.html): John E. Masters
 
 ## Other Researchers
 
